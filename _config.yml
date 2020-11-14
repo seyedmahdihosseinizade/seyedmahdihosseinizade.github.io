@@ -108,15 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "seyed mahdi hosseini zade"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-  location         : "تهران"
-  email            : sauleh@gmail.com
+  avatar           : "/assets/images/mahdi.jpg"
+  bio              : I am seyed mahdi hosseini I.m study in iust  
+  email            : mahdihosseinizade2000@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
-  instagram: saulehe
+  instagram: mahdihosseini_8
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
