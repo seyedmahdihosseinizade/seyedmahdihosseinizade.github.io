@@ -12,7 +12,7 @@ title: My new picture
 
 
 
-![alt text](../assets/images/my Team.jpg"Real Madrid")
+![alt text](../assets/images/ my Team.jpg"Real Madrid")
 
 ---
 **Test**: This is the best team in the world  and I love it .

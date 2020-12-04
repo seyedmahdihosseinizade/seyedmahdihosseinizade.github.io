@@ -16,10 +16,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
+locale                   : "iran" 
 title                    : "seyed mahdi hosseini zade"
 title_separator          : "-"
-name                     : "seyed mahdi" 
+name                     : "سید مهدی " 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,14 +107,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "seyed mahdi hosseini zade"
+  name             : "سید مهدی حسینی زاده"
   avatar           : "/assets/images/mahdi.jpg"
-  bio              : I am seyed mahdi hosseini I.m study in iust  
+  bio              : BS student computer engineering  at univercity Science and Technology . 
   email            : mahdihosseinizade2000@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin:
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: seyedmahdihosseinizade
   instagram: mahdihosseini_8
   links:
     - label: "Email"
