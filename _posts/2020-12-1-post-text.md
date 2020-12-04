@@ -1,6 +1,6 @@
 
 layout: posts
-title: My new text(talking with ta)
+title: My new text(talking with Ta)
 ---
 
 ## This is my text
@@ -12,7 +12,7 @@ title: My new text(talking with ta)
 
 
 
-![alttext](../assets/image/my_college.jpg"college")
+![alt text](../assets/image/my_college.jpg"college")
 
 ---
 **Text**:    سلام   دیروز در تاربخ 99/10/12   یک  جلسه  با اقای سعادت    داشتیم .  در این  جلسه سعی  کردیم  تا از تجربیات  ایشون  در این  رشته  ., استفاده  کنیم  .  یکی از مهم ترین نکات این جلسه این بود که  طریقه ی مطالعه ی هر درس را   به ما گفتند و  مهم ترین نکته ای که از اقای سعادت یادگرفتیم پشت کار و تمرین زیاد و تمرین حداقل روزانه یک ساعت کد زنی بود   و خسته نشدن از ارور های کد زنی بود 
