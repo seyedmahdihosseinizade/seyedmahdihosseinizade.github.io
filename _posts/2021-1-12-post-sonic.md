@@ -3,7 +3,7 @@ layout: posts
 title: My new musuc project
 ---
 
-## This is my picture
+
 
 
 [my music website](https://soundcloud.com/user-179719664/final)
